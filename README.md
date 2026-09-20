@@ -1,5 +1,5 @@
 # BILI-Blacklist
-BILIBAN - B站用户屏蔽黑名单备份
+BILIBAN - B站用户屏蔽黑名单备份(https://github.com/ming6203/BILIBAN)
 
 # 黑名单内容划分
 
